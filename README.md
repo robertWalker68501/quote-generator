@@ -1,6 +1,6 @@
 # Zero To Mastery - Quote Generator Javascript Project
 
-This is a solution to the [Quote Generator project on Zero To Mastery](https://zerotomastery.io/). Zero To Mastery projects help you improve your coding skills by building realistic projects.
+This is a solution to the Quote Generator project on [Zero To Mastery](https://zerotomastery.io/). Zero To Mastery projects help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
